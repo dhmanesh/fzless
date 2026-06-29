@@ -1,5 +1,5 @@
 # fzless
-A zero-resource, terminal-native micro-IDE that combines fzf and less into a seamless loop for rapid file discovery, viewing, editing, and command harvesting
+A zero-resource, terminal-based micro-IDE that combines fzf and less into a seamless loop for rapid file discovery, viewing, editing, and command harvesting
  
 This tool establishes a seamless loop between macro-searching (`fzf`), micro-searching/reviewing (`less`), and editing (`your $EDITOR`), allowing you to navigate and modify your entire file system without leaving your terminal workflow.
 
